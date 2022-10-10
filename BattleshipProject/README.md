@@ -1,2 +1,3 @@
 # BattleshipProject #
-This part of the project came with the project description.
+
+This program had already been written and provided for me. It is the game "engine" for Battleship.
